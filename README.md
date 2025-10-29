@@ -1,4 +1,6 @@
-Hey, my name is Mateo McKee. I'm a software engineer and computer science student at the University of Texas at San Antonio. My career goal is to build impactful tech that directly benefits society, and pushes the boundaries of what we thought possible. I'm concentrating my studies in systems-level software engineering. I'm interested in embedded systems, compiler construction, operating systems, and firmware engineering. I love working on code that drives physical systems.
+Hey, my name is Mateo McKee. I'm a software engineer and computer science student at the University of Texas at San Antonio.  
+  
+My career goal is to build impactful tech that directly benefits society, and pushes the boundaries of what we thought possible. I'm concentrating my studies in systems-level software engineering. I'm interested in embedded systems, compiler construction, operating systems, and firmware engineering. I love working on code that drives physical systems.
 
 ### My Experience
 
